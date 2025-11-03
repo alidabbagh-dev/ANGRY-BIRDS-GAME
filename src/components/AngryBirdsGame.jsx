@@ -159,7 +159,7 @@ const AngryBirdsGame = () => {
         );
         break;
       default:
-        const baseCount = 3 + Math.floor(lvl / 2);
+        { const baseCount = 3 + Math.floor(lvl / 2);
         for (let i = 0; i < baseCount; i++) {
           ts.push({
             id: `t${i}`,
@@ -176,7 +176,7 @@ const AngryBirdsGame = () => {
             type: Math.random() > 0.5 ? "wood" : "glass",
             isHit: false,
           });
-        }
+        } }
     }
     return { targets: ts, obstacles: obs };
   };
@@ -220,6 +220,7 @@ const AngryBirdsGame = () => {
     if (!gameStarted && shotsLeft > 0 && dist < 80) {
       setIsDragging(true);
       setDragStart({ x: e.clientX, y: e.clientY });
+      console.log(dragStart)
       e.currentTarget.setPointerCapture?.(e.pointerId);
     }
   };
