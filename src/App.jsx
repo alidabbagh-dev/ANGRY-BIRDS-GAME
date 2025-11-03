@@ -1,4 +1,4 @@
-import AngryBirdsGame from './components/AngrybirdsGame'
+import AngryBirdsGame from './components/AngryBirdsGame'
 import './index.css'
 
 function App() {
