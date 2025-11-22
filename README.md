@@ -24,7 +24,8 @@
 ## Technologies
 - React.js  
 - Vite  
-- JavaScript / TypeScript  
+- JavaScript
+- Eslint  
 - CSS3  
 
 ### [Play the Game Live](https://alidabbagh-angry-birds-game.vercel.app/)
