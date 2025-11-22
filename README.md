@@ -1,16 +1,32 @@
-# React + Vite
+# 🐦 Angry Birds Game - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [Live Demo](https://alidabbagh-angry-birds-game.vercel.app/) 🚀
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alidabbagh-dev/alidabbagh-angry-birds-game/main/image1.png" alt="Game Screenshot 1" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alidabbagh-dev/alidabbagh-angry-birds-game/image2.jpg" alt="Game Screenshot 2" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+</p>
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## Features
+- Classic Angry Birds gameplay experience 🐦  
+- Drag and launch birds with mouse or touch 🎯  
+- Multiple levels with increasing difficulty 🔥  
+- Physics-based collisions and destructible structures using **simple physics formulas**, no game engine 🏗️  
+- Score tracking for each level 🏆  
+- Fully responsive – playable on desktop and mobile 📱💻  
+- Built with React, Vite, and modern JavaScript ⚛️  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Technologies
+- React.js  
+- Vite  
+- JavaScript / TypeScript  
+- HTML5 Canvas  
+- CSS3  
+
+### [Play the Game Live](https://alidabbagh-angry-birds-game.vercel.app/)
