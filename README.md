@@ -3,13 +3,12 @@
 ### [Live Demo](https://alidabbagh-angry-birds-game.vercel.app/) 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alidabbagh-dev/alidabbagh-angry-birds-game/main/image1.png" alt="Game Screenshot 1" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/alidabbagh-dev/ANGRY-BIRDS-GAME/main/image1.png" alt="Screenshot 1" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alidabbagh-dev/alidabbagh-angry-birds-game/image2.jpg" alt="Game Screenshot 2" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/alidabbagh-dev/ANGRY-BIRDS-GAME/main/image2.jpg" alt="Screenshot 2" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 </p>
-
 
 
 ## Features
