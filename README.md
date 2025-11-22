@@ -25,7 +25,6 @@
 - React.js  
 - Vite  
 - JavaScript / TypeScript  
-- HTML5 Canvas  
 - CSS3  
 
 ### [Play the Game Live](https://alidabbagh-angry-birds-game.vercel.app/)
